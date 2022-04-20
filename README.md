@@ -11,7 +11,7 @@ I've sucessfully developed the second feature of the application by using the TF
 
 I have yet to implement the other features as we are still figuring out how. But we do plan to use either the Logistic Regression or LSTM, as well as using the VOSviewer software to visualize the terms in PubMed articles. 
 
-### Wednesday, 20 March, 2022
+### Wednesday, 20 April, 2022
 I was able to do the other two features, although it doesn't meet up with some the the task requirements. 
 
 Instead of using the machine learning models for the MeSH Recommendation, I used a python library called YAKE!. I compared my application with MeSH-on-Demand's official application, and the results were close. Although my application displayed the MeSH terms like in the offical application, it also showed non-MeSH terms. 
